@@ -3,6 +3,6 @@ This dataset called: Crimes in Saudi Arabia. It contains details about all kinds
 
 **Cite this Dataset:  **
 
-Albahli, Saleh, Anadil Alsaqabi, Fatimah Aldhubayi, Hafiz Tayyab Rauf, Muhammad Arif, and Mazin Abed Mohammed. "Predicting the type of crime: Intelligence gathering and crime analysis." Computers, Materials & Continua 66, no. 3 (2021): 2317-2341.
+Saleh Albahli and Waleed Albattah. "Crime type prediction in Saudi Arabia based on intelligence gathering." The Computer Journal (2022).
 
-The paper can be accessed via: https://techscience.com/cmc/v66n3/41085
+The paper can be accessed via: https://academic.oup.com/comjnl
